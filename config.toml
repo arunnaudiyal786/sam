@@ -3,7 +3,7 @@ baseURL = "https://arunnaudiyal786.github.io/"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "C:/Hugo/quickstart/themes"
-
+publishDir = "arunnaudiyal786.github.io"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
